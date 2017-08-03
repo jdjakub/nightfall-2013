@@ -1,0 +1,3 @@
+class UpdateOverlayEvent implements IEvent {
+
+}
